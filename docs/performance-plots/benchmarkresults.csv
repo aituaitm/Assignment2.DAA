@@ -1,0 +1,7 @@
+C:\Users\akbot\.jdks\openjdk-23.0.2\bin\java.exe "-javaagent:C:\Users\akbot\AppData\Local\JetBrains\IntelliJ IDEA 2024.3\lib\idea_rt.jar=61887:C:\Users\akbot\AppData\Local\JetBrains\IntelliJ IDEA 2024.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\akbot\IdeaProjects\Assignment2.DAA\target\classes com.akbota.cli.BenchmarkRunner
+Done n=100 time_ms=0
+Done n=1000 time_ms=1
+Done n=10000 time_ms=3
+Done n=100000 time_ms=12
+
+Process finished with exit code 0
